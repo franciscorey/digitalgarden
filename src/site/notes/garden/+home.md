@@ -26,6 +26,7 @@ Aquí comparto notas, ideas y conocimientos que están en constante crecimiento.
 
 ## ✍️ Últimas publicaciones
 
+- [[Atlas/Notes/Apuntes/Programas y aplicaciones que utilizo\|Programas y aplicaciones que utilizo]]
 - [[Atlas/Notes/Apuntes/CSS Grid\|CSS Grid]]
 
 ---
