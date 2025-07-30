@@ -287,11 +287,11 @@ Colores para copiar del proyecto web.
     width: 60px;
     height: 60px;
     border-radius: 4px;
-    background-color: white;
   }
   .color-label {
     margin-top: 0.5rem;
-	color:black;
+	color:white;
+	background-color:black;
     font-family: monospace;
     font-size: 0.75rem;
   }
