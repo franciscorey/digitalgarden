@@ -271,7 +271,7 @@ Colores para copiar del proyecto web.
 <style>
   .color-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
     gap: 1rem;
     padding: 1rem;
     align-items: center;
