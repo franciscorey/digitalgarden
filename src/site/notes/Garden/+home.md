@@ -26,7 +26,7 @@ Aquí comparto notas, ideas y conocimientos que están en constante crecimiento.
 
 ## ✍️ Últimas publicaciones
 
-- [[Garden/Colores Proyecto\|Colores Proyecto]]
+- [[Notas/Trabajo/Colores Proyecto\|Colores Proyecto]]
 - [[Notas/Apuntes/Programas y aplicaciones que utilizo\|Programas y aplicaciones que utilizo]]
 - [[Notas/Apuntes/CSS Grid\|CSS Grid]]
 
