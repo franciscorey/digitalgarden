@@ -25,6 +25,6 @@ CSS Grid fuerza de alguna manera a tener un pensamiento visual mas cercano al di
 
 ### Cuándo usar CSS Grid
 
-- Para realizar plantillas o layouts más complejos que los que harías con Flexbox.
+- Para realizar plantillas o layouts más complejos que los que harías con [[Notas/Apuntes/Flexbox\|Flexbox]].
 - Para diseños que escapan del sistema tradicional de secciones apiladas verticalmente con filas de cajas.
 - Para hacer patrones de visualización complejos como [[Notas/Apuntes/Masonry Layout (UI)\|Masonry Layout (UI)]].
